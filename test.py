@@ -1,4 +1,4 @@
-import threading
+iimport threading
 import time
 exitFlag=0
 class myThread(threading.Thread):
